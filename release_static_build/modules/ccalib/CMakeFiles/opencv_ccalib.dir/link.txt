@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libopencv_ccalib.a  CMakeFiles/opencv_ccalib.dir/src/ccalib.cpp.o CMakeFiles/opencv_ccalib.dir/src/multicalib.cpp.o CMakeFiles/opencv_ccalib.dir/src/omnidir.cpp.o CMakeFiles/opencv_ccalib.dir/src/randpattern.cpp.o
+/usr/bin/ranlib ../../lib/libopencv_ccalib.a

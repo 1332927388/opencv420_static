@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libopencv_dpm.a  CMakeFiles/opencv_dpm.dir/src/dpm_cascade.cpp.o CMakeFiles/opencv_dpm.dir/src/dpm_cascade_detector.cpp.o CMakeFiles/opencv_dpm.dir/src/dpm_convolution.cpp.o CMakeFiles/opencv_dpm.dir/src/dpm_feature.cpp.o CMakeFiles/opencv_dpm.dir/src/dpm_model.cpp.o CMakeFiles/opencv_dpm.dir/src/dpm_nms.cpp.o
+/usr/bin/ranlib ../../lib/libopencv_dpm.a

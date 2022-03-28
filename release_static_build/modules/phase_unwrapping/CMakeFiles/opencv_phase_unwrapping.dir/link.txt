@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libopencv_phase_unwrapping.a  CMakeFiles/opencv_phase_unwrapping.dir/src/histogramphaseunwrapping.cpp.o
+/usr/bin/ranlib ../../lib/libopencv_phase_unwrapping.a

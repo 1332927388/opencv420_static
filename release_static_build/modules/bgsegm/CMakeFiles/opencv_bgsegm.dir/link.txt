@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libopencv_bgsegm.a  CMakeFiles/opencv_bgsegm.dir/src/bgfg_gaussmix.cpp.o CMakeFiles/opencv_bgsegm.dir/src/bgfg_gmg.cpp.o CMakeFiles/opencv_bgsegm.dir/src/bgfg_gsoc.cpp.o CMakeFiles/opencv_bgsegm.dir/src/bgfg_subcnt.cpp.o CMakeFiles/opencv_bgsegm.dir/src/synthetic_seq.cpp.o
+/usr/bin/ranlib ../../lib/libopencv_bgsegm.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libopencv_hdf.a  CMakeFiles/opencv_hdf.dir/src/hdf5.cpp.o
+/usr/bin/ranlib ../../lib/libopencv_hdf.a

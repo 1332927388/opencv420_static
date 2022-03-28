@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libopencv_freetype.a  CMakeFiles/opencv_freetype.dir/src/freetype.cpp.o
+/usr/bin/ranlib ../../lib/libopencv_freetype.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libopencv_dnn_superres.a  CMakeFiles/opencv_dnn_superres.dir/src/dnn_superres.cpp.o
+/usr/bin/ranlib ../../lib/libopencv_dnn_superres.a

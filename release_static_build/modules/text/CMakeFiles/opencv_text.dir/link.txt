@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libopencv_text.a  CMakeFiles/opencv_text.dir/src/erfilter.cpp.o CMakeFiles/opencv_text.dir/src/ocr_beamsearch_decoder.cpp.o CMakeFiles/opencv_text.dir/src/ocr_hmm_decoder.cpp.o CMakeFiles/opencv_text.dir/src/ocr_holistic.cpp.o CMakeFiles/opencv_text.dir/src/ocr_tesseract.cpp.o CMakeFiles/opencv_text.dir/src/text_detectorCNN.cpp.o
+/usr/bin/ranlib ../../lib/libopencv_text.a

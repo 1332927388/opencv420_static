@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libopencv_surface_matching.a  CMakeFiles/opencv_surface_matching.dir/src/icp.cpp.o CMakeFiles/opencv_surface_matching.dir/src/pose_3d.cpp.o CMakeFiles/opencv_surface_matching.dir/src/ppf_helpers.cpp.o CMakeFiles/opencv_surface_matching.dir/src/ppf_match_3d.cpp.o CMakeFiles/opencv_surface_matching.dir/src/t_hash_int.cpp.o
+/usr/bin/ranlib ../../lib/libopencv_surface_matching.a

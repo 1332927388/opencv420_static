@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libopencv_line_descriptor.a  CMakeFiles/opencv_line_descriptor.dir/src/LSDDetector.cpp.o CMakeFiles/opencv_line_descriptor.dir/src/binary_descriptor.cpp.o CMakeFiles/opencv_line_descriptor.dir/src/binary_descriptor_matcher.cpp.o CMakeFiles/opencv_line_descriptor.dir/src/draw.cpp.o
+/usr/bin/ranlib ../../lib/libopencv_line_descriptor.a

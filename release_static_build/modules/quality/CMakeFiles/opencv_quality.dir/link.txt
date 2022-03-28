@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libopencv_quality.a  CMakeFiles/opencv_quality.dir/src/qualitybrisque.cpp.o CMakeFiles/opencv_quality.dir/src/qualitygmsd.cpp.o CMakeFiles/opencv_quality.dir/src/qualitymse.cpp.o CMakeFiles/opencv_quality.dir/src/qualityssim.cpp.o
+/usr/bin/ranlib ../../lib/libopencv_quality.a

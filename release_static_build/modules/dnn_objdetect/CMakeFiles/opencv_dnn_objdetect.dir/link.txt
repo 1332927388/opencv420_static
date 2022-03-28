@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libopencv_dnn_objdetect.a  CMakeFiles/opencv_dnn_objdetect.dir/src/core_detect.cpp.o
+/usr/bin/ranlib ../../lib/libopencv_dnn_objdetect.a

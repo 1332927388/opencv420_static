@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libopencv_structured_light.a  CMakeFiles/opencv_structured_light.dir/src/graycodepattern.cpp.o CMakeFiles/opencv_structured_light.dir/src/sinusoidalpattern.cpp.o
+/usr/bin/ranlib ../../lib/libopencv_structured_light.a

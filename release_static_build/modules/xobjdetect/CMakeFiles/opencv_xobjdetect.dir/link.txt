@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libopencv_xobjdetect.a  CMakeFiles/opencv_xobjdetect.dir/src/feature_evaluator.cpp.o CMakeFiles/opencv_xobjdetect.dir/src/lbpfeatures.cpp.o CMakeFiles/opencv_xobjdetect.dir/src/waldboost.cpp.o CMakeFiles/opencv_xobjdetect.dir/src/wbdetector.cpp.o
+/usr/bin/ranlib ../../lib/libopencv_xobjdetect.a
